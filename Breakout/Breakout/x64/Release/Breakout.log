@@ -1,0 +1,71 @@
+﻿  Breakout.cpp
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Breakout.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(3,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(4,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(5,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(6,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(10,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(12,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(13,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(24,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(25,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(27,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(28,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(31,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(32,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(34,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(35,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(36,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(42,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(44,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(45,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(46,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(47,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(55,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(56,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(68,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(70,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(71,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(74,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(75,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(109,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(110,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(111,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(112,15): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(113,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(114,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(115,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(116,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(118,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Struct.cpp(119,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Breakout.cpp(37,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Render.cpp(41,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Render.cpp(42,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Render.cpp(44,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Render.cpp(45,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Render.cpp(46,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Render.cpp(47,9): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Breakout.cpp(38,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(218,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(221,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(227,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(227,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(227,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(230,77): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(230,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(233,100): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(233,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(233,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(236,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(239,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(242,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Simulate.cpp(245,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Import.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Import.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Import.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+X:\Visual Studio Projects\Breakout\Breakout\Breakout\Breakout.cpp(186): warning C4715: 'WinMain': not all control paths return a value
+  All 437 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Breakout.vcxproj -> X:\Visual Studio Projects\Breakout\Breakout\x64\Release\Breakout.exe
